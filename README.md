@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Animated wave banner (capsule-render, reliable) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=Hi%20👋,%20I'm%20Devansh%20Maru&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Researcher%20|%20Codec%20%26%20Graph%20ML%20Enthusiast&descAlignY=58&descAlign=50" />
+
 
 <!-- Typing animation (demolab, reliable) -->
 <a href="https://git.io/typing-svg">
