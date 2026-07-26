@@ -32,9 +32,9 @@
 
 ### 🚀 About Me
 
-- 🎓 Pursuing **M.Tech in CSE** at **NIT Rourkela** (CGPA: 8.98), B.Tech from DDU Nadiad (CGPA: 8.63)
-- 💼 Currently building **video codec optimization algorithms** as a Developer Intern at **Samsung R&D Institute India**
-- 🔬 Research background in **self-supervised graph clustering** — 4 papers at ACM/IEEE venues in 3 months
+- 🎓 completed **M.Tech in CSE** at **NIT Rourkela** (CGPA: 8.98), B.Tech from DDU Nadiad (CGPA: 8.63)
+- 💼 Experience in  **video codec optimization algorithms** as a Developer Intern at **Samsung R&D Institute India**
+- 🔬 Research background in **self-supervised graph clustering** — 4 papers at ACM/IEEE venues
 - 🛰️ Former Research Intern at **ISRO's Space Applications Centre**, building graph-based data dashboards
 - 🏆 **97.4 percentile** in GATE CS & DA — top 3% nationally
 - 🌱 Always exploring the intersection of **Machine Learning, Graph Theory, and Systems Engineering**
