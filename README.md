@@ -69,10 +69,10 @@
 
 | Project | Stack | Highlight |
 |---|---|---|
-| **[GraphGuard: Graph-Based Fraud Detection](https://github.com/marudevansh25111)** | Python, PyTorch, FastAPI, NetworkX, XGBoost, Docker | Fraud ring detection on 200k+ node Bitcoin transaction graph, served via live FastAPI endpoint |
-| **[Automated Blood Cell Counter](https://github.com/marudevansh25111)** | Python, OpenCV, Streamlit, Scikit-learn | Classifies RBCs/WBCs/Platelets with 90%+ accuracy, cuts manual analysis time 70%+ |
-| **[Distributed Event Manager](https://github.com/marudevansh25111)** | C++, Qt, WebSocket | Real-time event sync across 5+ devices with sub-second latency |
-| **[Guitar Chord Search App](https://github.com/marudevansh25111)** | MERN Stack | Chord-to-song recommendation engine, 30+ chords, sub-1s query results |
+| **[GraphGuard: Graph-Based Fraud Detection](https://github.com/marudevansh25111/Graph_guard)** | Python, PyTorch, FastAPI, NetworkX, XGBoost, Docker | Fraud ring detection on 200k+ node Bitcoin transaction graph, served via live FastAPI endpoint |
+| **[Automated Blood Cell Counter](https://github.com/marudevansh25111/Blood_Cell_Counter)** | Python, OpenCV, Streamlit, Scikit-learn | Classifies RBCs/WBCs/Platelets with 90%+ accuracy, cuts manual analysis time 70%+ |
+| **[Distributed Event Manager](https://github.com/marudevansh25111/Event_Manager)** | C++, Qt, WebSocket | Real-time event sync across 5+ devices with sub-second latency |
+| **[Guitar Chord Search App](https://github.com/marudevansh25111/TuneTuna)** | MERN Stack | Chord-to-song recommendation engine, 30+ chords, sub-1s query results |
 
 > Replace the placeholder links above with the direct URLs to each of your repos.
 
